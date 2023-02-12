@@ -1,0 +1,2 @@
+ohmimeter		KEYWORD1
+resistance      KEYWORD2

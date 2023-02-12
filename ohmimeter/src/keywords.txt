@@ -1,0 +1,3 @@
+ohmimeter		KEYWORD1
+circuit         KEYWORD2
+resistance      KEYWORD3
